@@ -7,7 +7,7 @@ https://www.npmjs.com/package/hw-drag-report-form
 
 example为简单的使用
 
-可以到https://hm243695czl.github.io/地址预览
+可以到`https://hm243695czl.github.io/`地址预览
 
 预览地址的源码：
 
